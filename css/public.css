@@ -1,0 +1,47 @@
+*{margin: 0;padding: 0;}
+body{
+	overflow-y: hidden;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #666;
+	background: gray;
+}	
+ul,li{
+	list-style: none;
+}
+.content{
+	min-width: 960px;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.text-center{
+	text-align: center;
+}
+.text-bg{
+	font-size: 40px;
+}
+.text-sm{
+	font-size: 12px;
+}
+.text-md{
+	font-size: 20px;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.bg-red{
+	background: red;
+}
+.bg-green{
+	background: green;
+}
+.bg-gray{
+	background: gray;
+}
+.bg-transparent{
+	background: transparent;
+}
